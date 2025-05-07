@@ -46,7 +46,7 @@ These architectures help machines learn and reproduce complex data structures.
 
 - Tool: Adobe Firefly
 
-![Chatbot Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/blob/main/images/firefly%20image%20chatgpt.jpg)
+![Chatbot Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/main/images/firefly%20image%20chatgpt.jpg)
 
 > *AI like ChatGPT/FireFly answers questions, writes essays, and even creates jokes.*
 
@@ -60,7 +60,7 @@ These architectures help machines learn and reproduce complex data structures.
 - Tool: Freepik's AI Image Generator
 
 
-![AI Music Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/blob/main/images/freepik__a-musical-score.png)
+![AI Music Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/main/images/freepik__a-musical-score.png)
 
 > *A model like Jukebox by OpenAI composes original songs.*
 
@@ -73,7 +73,7 @@ These architectures help machines learn and reproduce complex data structures.
 
 - Tool: Microsoft Designer's AI Image Generator
 
-![Deepfake Risk Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/blob/main/images/microsoft_Designer.jpeg)
+![Deepfake Risk Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/main/images/microsoft_Designer.jpeg)
 
 > *AI can mimic faces and voices – this has both creative and security implications.*
 
@@ -95,7 +95,7 @@ These architectures help machines learn and reproduce complex data structures.
 
 - Tool: DeepAI's Text to Image Generator
 
-![G.ai vs T.ai example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/blob/main/images/deepai_image%20generator.jpeg)
+![G.ai vs T.ai example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/main/images/deepai_image%20generator.jpeg)
 
 ---
 

@@ -35,7 +35,7 @@ These architectures help machines learn and reproduce complex data structures.
 
 - Tool: Canva's AI Image Generator
 
-![Text to Image Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/blob/main/images/genertate%20with%20canva.png)
+![Text to Image Example](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/main/images/genertate%20with%20canva.png)
 
 ---
 

@@ -194,7 +194,7 @@ except ValidationError as e:
 
 ---
 
-### 4. `main.py`
+### 4. `app.py`
 
 **FastAPI App with Nested Pydantic Models**
 
@@ -265,19 +265,23 @@ uv add "fastapi[standard]"
 ### 3. Run FastAPI app:
 
 ```bash
-fastapi dev main.py
+fastapi dev app.py
 ```
 
 Or:
 
 ```bash
-uvicorn main:app --reload
+uvicorn app:app --reload
 ```
 
 ### 4. Open Browser:
 
 * Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 * Root Page: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+### 5. Screen Shot of Swagger UI
+
+![Swagger UI](https://raw.githubusercontent.com/Rajda-Hyder/Q_4_Learning_Assignments/master/images/Screenshot%20(298).png)
 
 ---
 
